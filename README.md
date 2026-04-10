@@ -14,4 +14,6 @@ Aquest projecte es desenvolupa utilitzant SCRUM amb sprints d'1 setmana.
 ## Instal·lació
 git clone ...
 npm install
-npm run dev
+npm run dev 
+
+#TEST
